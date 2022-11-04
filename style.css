@@ -19,3 +19,6 @@ p{
     font-size: 16px;
     color: gray;
 }
+a{
+    text-decoration: none;
+}
